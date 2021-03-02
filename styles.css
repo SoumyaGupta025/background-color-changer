@@ -1,0 +1,23 @@
+body{
+  background-color: #709fb0;
+  text-align: center;
+}
+.click{
+  text-align: center;
+  margin: 150px;
+}
+
+.click button{
+  background-color: #78c4d4;
+  padding: 1px;
+  border: 1px solid #709fb0;
+  box-shadow: 0.5px;
+  color: #28527a;
+  text-align: center;
+  height: 100px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font: Monterrat;
+}
